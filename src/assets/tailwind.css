@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Aldrich:wght@400;500;700;800;900&display=fallback');
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;700;800;900&display=fallback');
+
+@tailwind base;
+
+@tailwind components;
+
+@tailwind utilities;
+
+@layer base {
+  .cursor-color {
+    @apply border-2 border-sky-500 z-10;
+  }
+
+  /* #app {
+    @apply bg-sun-50;
+  } */
+}
