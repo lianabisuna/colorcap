@@ -48,12 +48,8 @@ P.S. I had a hard time deploying it to Netlify because of some Gitlab errors so 
 ## Screenshots
 
 This is how it looks upon clicking the link and toggling it to dark mode:
+
 ![App Screenshot](https://github.com/lianabisuna/colorcap/blob/main/src/assets/screenshot.jpg?raw=true)
-
-## Logo
-
-I had the time to design its logo and I really like how it turned out. *Do you like it?*
-![App Screenshot](https://colorcap.netlify.app/img/logo.9934b4f6.png)
 
 ## Updates
 
