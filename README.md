@@ -48,9 +48,7 @@ P.S. I had a hard time deploying it to Netlify because of some Gitlab errors so 
 ## Screenshots
 
 This is how it looks upon clicking the link and toggling it to dark mode:
-
-<!-- ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here) -->
-![App Screenshot](https://github.com/lianabisuna/colorcap/blob/main/screenshot.jpg?raw=true)
+![App Screenshot](https://github.com/lianabisuna/colorcap/blob/main/src/assets/screenshot.jpg?raw=true)
 
 ## Logo
 
